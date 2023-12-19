@@ -1,1 +1,1 @@
-# goit-js-hw-01 // Oleksii S // GoIT FS-98
+# goit-js-hw-06 // Oleksii S // GoIT FS-98
